@@ -5,7 +5,7 @@
 
 ### Description
 
-- It's an electronic report containing news concerning the activities of a business or an organization that is sent to its members, customers, employees or other subscribers.
+- It's an electronic report containing news concerning the activities of a business or an organization that is sent to its Members, Customers, Employees, or other Subscribers.
 
 ### Technologies:
 
